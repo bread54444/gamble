@@ -1,0 +1,26 @@
+You have lost the game with 1 wins, 1 losses and 2 gambles 
+ 
+ You had a win percentage of 50% 
+ 
+ You have bet a total of $2000 dollars 
+ -------------------------------------------  
+You have lost the game with 0 wins, 3 losses and 3 gambles 
+ 
+ You had a win percentage of 0% 
+ 
+ You have bet a total of $1000 dollars 
+ -------------------------------------------  
+ You have lost the game with 0 wins, 1 losses and 1 gambles 
+ 
+ You had a win percentage of 0% 
+ 
+ You have bet a total of $1000 dollars 
+ -------------------------------------------  
+
+You have lost the game with 1 wins, 1 losses and 2 gambles 
+ 
+ You had a win percentage of 50% 
+ 
+ You have bet a total of $3000 dollars 
+ -------------------------------------------  
+
